@@ -11,6 +11,7 @@ Build-Depends:
  debhelper (>= 9),
  dh-autoreconf,
  help2man,
+ libelf-dev,
  libssl-dev,
  python,
  uuid-dev,
